@@ -1,0 +1,48 @@
+/* GLOBAL RESET & BEAUTIFUL DESIGN */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #app {
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  color: #1e293b;
+}
+
+input, select {
+  padding: 14px 16px !important;
+  border-radius: 12px !important;
+  border: none !important;
+  background: white !important;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08) !important;
+  font-size: 16px !important;
+  transition: all 0.2s;
+}
+
+input:focus, select:focus {
+  outline: none !important;
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.3) !important;
+}
+
+button {
+  background: #3b82f6 !important;
+  color: white !important;
+  padding: 16px 32px !important;
+  border-radius: 16px !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  border: none !important;
+  cursor: pointer !important;
+  box-shadow: 0 8px 25px rgba(59, 130, 246, 0.3) !important;
+  transition: all 0.2s !important;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(59, 130, 246, 0.4) !important;
+}
