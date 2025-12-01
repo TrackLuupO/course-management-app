@@ -280,7 +280,7 @@ Configured for development with multiple allowed origins. Update in main.py for 
 
 * Vue.js: Optimized reactive updates
 
-* Lazy Loading: Modal-based content loading
+* Loading Modal: Modal-based content loading
 
 ## 🤝 Contributing
 * Fork the repository
@@ -295,7 +295,7 @@ Configured for development with multiple allowed origins. Update in main.py for 
 
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the ```MIT License``` - see the LICENSE file for details.
 
 --- 
 Built with ❤️ for academic institutions and educational technology
