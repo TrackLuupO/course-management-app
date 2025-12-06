@@ -280,7 +280,7 @@ Configured for development with multiple allowed origins. Update in main.py for 
 
 * Vue.js: Optimized reactive updates
 
-* Loading Modal: Modal-based content loading
+* Lazy-Loading Modal: Modal-based content loading
 
 ## 🤝 Contributing
 * Fork the repository
